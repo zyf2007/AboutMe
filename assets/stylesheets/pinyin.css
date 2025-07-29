@@ -1,0 +1,27 @@
+.pinyin-container {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 0 2px;
+    vertical-align: middle;
+    position: relative;
+    transform: translateY(-0.05rem);
+}
+
+.pinyin-remark {
+    display: block;
+    text-align: justify;
+    font-size: 0.7em;
+    color: #666;
+    line-height: 0.2;
+    white-space: nowrap;
+    position: relative;
+    z-index: 1; 
+}
+
+.pinyin-label {
+    font-size: 1em;
+    color: inherit;
+    position: relative;
+    line-height: 1.5rem;
+}

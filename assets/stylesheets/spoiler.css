@@ -1,0 +1,10 @@
+.spoiler {
+    background-color: #000;
+    color: transparent;        
+    transition: background-color 0.3s, color 0.3s; 
+}
+
+.spoiler:hover {
+    background-color: transparent; 
+    color: inherit;                
+}

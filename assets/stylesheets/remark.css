@@ -1,0 +1,21 @@
+.remark-label {
+    position: relative;
+    text-decoration: underline dotted #4a90e2;
+    color: #4a90e2;
+    cursor: help;
+}
+
+.remark-label:hover::after {
+    content: attr(data-remark);
+    white-space: pre;
+    position: absolute;
+    top: -30px;
+    left: 50%;
+    transform: translateX(-50%);
+    background: #333;
+    color: #fff;
+    padding: 4px 8px;
+    border-radius: 4px;
+    font-size: 0.9em;
+    z-index: 999;
+}
