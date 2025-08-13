@@ -1,9 +1,12 @@
 # 我的看番列表
-排名不分先后，完全是我想到加入列表的顺序。  
+排名不分先后，完全是我想到加入列表的顺序，硬要说的话就是尝试把名字有两行的都放在一起，这样排版比较好看（    
+
 我入宅算是比较晚的，应该是2020年：因为我第一次开始有意识的“追番”，开始了解并关注这个圈子是2020年。我认真追完的第一部动画是2020年的10月番《Love Live! 虹咲学园校园偶像同好会》。  
 
 
 后续来说，按照我的看番习惯，一般不会关注每个季度的新番，而是每天被网易云推到动画相关的曲目后，根据音乐的曲风决定自己要不要去试试看这部动画。实际上，这种方法非常的准。首先，我有每天清空网易云日推的习惯：也就是说，几乎每天都会把网易云日推全部听完，里面主要包含的类型就有 普通的 Trance 和 Core 音乐，东方二创，以及一些动画的 op 和 ed 曲目。这些动画插曲和 op/ed 可以精准的让我判断出这部动画是否符合我的偏好（至少画风上肯定是符合的，剧情大概率也不会相差太远）。
+
+
 {{ anime_list([
 
     {
@@ -21,11 +24,32 @@
         "score": "S"
     },
     {
+        "title": "天使的 three pieces!",
+        "cover": "https://114514.zroevn.cn/imgs/3p.avif",
+        "href": "https://anibase.net/zh-hans/anime/lrojv/%E5%A4%A9%E4%BD%BF%E7%9A%843P!",
+        "status": "已完结",
+        "score": "SS"
+    },
+    {
+        "title": "雏子的笔记",
+        "cover": "https://114514.zroevn.cn/imgs/note.avif",
+        "href": "https://www.bilibili.com/bangumi/play/ss5993",
+        "status": "已完结",
+        "score": "A（弃坑）"
+    },
+    {
         "title": "Fate/kaleid liner 魔法少女☆伊莉雅",
         "cover": "https://114514.zroevn.cn/imgs/yly1.avif",
         "href": "https://anibase.net/zh-hans/anime/mEEaw/Fate-kaleid-liner-%E9%AD%94%E6%B3%95%E5%B0%91%E5%A5%B3%E2%98%86%E4%BC%8A%E8%8E%89%E9%9B%85",
         "status": "已完结",
         "score": "SS"
+    },
+    {
+        "title": "Re:Stage！Dream Days♪",
+        "cover": "https://114514.zroevn.cn/imgs/kirara.avif",
+        "href": "https://www.bilibili.com/bangumi/play/ep320409",
+        "status": "已完结",
+        "score": "A"
     },
     {
         "title": "请问您今天要来点兔子吗？",
@@ -40,35 +64,6 @@
         "href": "https://www.bilibili.com/bangumi/play/ss2762",
         "status": "已完结",
         "score": "S"
-    },
-    {
-        "title": "URARA迷路帖",
-        "cover": "https://114514.zroevn.cn/imgs/urara.avif",
-        "href": "https://www.bilibili.com/bangumi/play/ss5776",
-        "status": "已完结",
-        "score": "B（弃坑）"
-    },
-    {
-        "title": "天使的 three pieces!",
-        "cover": "https://114514.zroevn.cn/imgs/3p.avif",
-        "href": "https://anibase.net/zh-hans/anime/lrojv/%E5%A4%A9%E4%BD%BF%E7%9A%843P!",
-        "status": "已完结",
-        "score": "SS"
-    },
-    {
-        "title": "雏子的笔记",
-        "cover": "https://114514.zroevn.cn/imgs/note.avif",
-        "href": "https://www.bilibili.com/bangumi/play/ss5993",
-        "status": "已完结",
-        "score": "A（弃坑）"
-    },
-
-    {
-        "title": "Re:Stage！Dream Days♪",
-        "cover": "https://114514.zroevn.cn/imgs/kirara.avif",
-        "href": "https://www.bilibili.com/bangumi/play/ep320409",
-        "status": "已完结",
-        "score": "A"
     },
     {
         "title": "Love Live! 虹咲学园校园偶像同好会",
@@ -91,7 +86,13 @@
         "status": "已完结",
         "score": "A"
     },
-
+    {
+        "title": "URARA迷路帖",
+        "cover": "https://114514.zroevn.cn/imgs/urara.avif",
+        "href": "https://www.bilibili.com/bangumi/play/ss5776",
+        "status": "已完结",
+        "score": "B（弃坑）"
+    },
     {
         "title": "D4DJ First Mix",
         "cover": "https://114514.zroevn.cn/imgs/d4dj1.avif",
@@ -150,7 +151,7 @@
         "score": "SS"
     },
     {
-        "title": "少女☆歌剧 Revue Starlight",
+        "title": "少女☆歌剧",
         "cover": "https://114514.zroevn.cn/imgs/revue.avif",
         "href": "https://www.bilibili.com/bangumi/play/ep232367",
         "status": "已完结",
@@ -185,25 +186,18 @@
         "score": "A"
     },
     {
-        "title": "BanG Dream! It's MyGO!!!!!",
-        "cover": "https://114514.zroevn.cn/imgs/mygo.avif",
-        "href": "https://www.bilibili.com/bangumi/play/ss73077",
-        "status": "已完结",
-        "score": "S"
-    },
-    {
-        "title": "只要长得可爱，即使是变态你也喜欢吗？",
-        "cover": "https://114514.zroevn.cn/imgs/ht.avif",
-        "href": "https://www.bilibili.com/bangumi/play/ss73077",
-        "status": "已完结",
-        "score": "S"
-    },
-    {
         "title": "时钟机关之星",
         "cover": "https://114514.zroevn.cn/imgs/szjgzx.avif",
         "href": "https://www.bilibili.com/bangumi/play/ss6000",
         "status": "已完结",
         "score": "SS"
+    },
+        {
+        "title": "我，要成为双马尾。",
+        "cover": "https://114514.zroevn.cn/imgs/tt.avif",
+        "href": "https://www.bilibili.com/bangumi/play/ss324",
+        "status": "已完结",
+        "score": "S"
     },
     {
         "title": "突击莉莉 BOUQUET",
@@ -219,13 +213,21 @@
         "status": "已完结",
         "score": "刚开始看"
     },
-    {
-        "title": "我，要成为双马尾。",
-        "cover": "https://114514.zroevn.cn/imgs/tt.avif",
-        "href": "https://www.bilibili.com/bangumi/play/ss324",
+        {
+        "title": "BanG Dream! It's MyGO!!!!!",
+        "cover": "https://114514.zroevn.cn/imgs/mygo.avif",
+        "href": "https://www.bilibili.com/bangumi/play/ss73077",
         "status": "已完结",
         "score": "S"
     },
+    {
+        "title": "只要长得可爱，即使是变态你也喜欢吗？",
+        "cover": "https://114514.zroevn.cn/imgs/ht.avif",
+        "href": "https://www.bilibili.com/bangumi/play/ss73077",
+        "status": "已完结",
+        "score": "S"
+    },
+
 
 
 ]) }}

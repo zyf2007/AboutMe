@@ -2,7 +2,7 @@ site_name: 胡桃酱使用指南
 site_description: 这是一份专属的「📖胡桃酱使用说明书」，也是一座承载个人小世界的数字展馆。在这里，你不仅能解锁我的成长轨迹、生活碎片与小众爱好，还能获取与我畅快聊天的「🧭关键词指南」、发现隐藏彩蛋的「🗺️寻宝地图」。
 site_author: Hutao_zyf
 site_url: https://midori.fun/aboutme
-use_directory_urls: false
+use_directory_urls: false  
 theme:
   name: material
 copyright: Copyright &copy; Hutao_zyf | 由<a href="https://www.upyun.com/?utm_source=lianmeng&utm_medium=referral">又拍云</a>提供云存储服务 | licensed under <a href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1">CC BY 4.0</a>
@@ -10,7 +10,7 @@ nav:
   - index.md
   - 📁 核心档案馆:
     - 核心档案: Core/CoreData.md
-    - 联系方式: Core/Contacts.md
+    - 联系方式: Core/Contacts.md 
   - 📚 生活扩展包:
     - 兴趣图谱: Plugins/hb.md
     - 神教类:

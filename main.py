@@ -103,6 +103,7 @@ def define_env(env):
     display: flex;
     align-items: center;
     justify-content: center;
+    font-size: 0.8rem; /* 默认字体大小 */
 }
 
 .anime-meta {
@@ -110,8 +111,27 @@ def define_env(env):
     justify-content: space-between;
     width: 100%;
     padding: 0 0.75rem 0.75rem;
-    font-size: 0.85rem;
+    font-size: 0.7rem; /* 默认元数据字体大小 */
     color: #666;
+}
+
+/* 手机设备适配 - 一行显示3个 */
+@media (max-width: 768px) {
+    .anime-grid {
+        grid-template-columns: repeat(3, 1fr);
+        gap: 0.75rem;
+        padding: 0.5rem;
+    }
+    
+    .anime-title {
+        padding: 0.5rem 0.25rem;
+        font-size: 0.75rem; /* 手机端标题字体缩小 */
+    }
+    
+    .anime-meta {
+        padding: 0 0.25rem 0.5rem;
+        font-size: 0.65rem; /* 手机端元数据字体缩小 */
+    }
 }
 </style>
 
