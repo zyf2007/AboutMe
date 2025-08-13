@@ -125,12 +125,12 @@ def define_env(env):
     
     .anime-title {
         padding: 0.5rem 0.25rem;
-        font-size: 0.75rem; /* 手机端标题字体缩小 */
+        font-size: 0.55rem; /* 手机端标题字体缩小 */
     }
     
     .anime-meta {
         padding: 0 0.25rem 0.5rem;
-        font-size: 0.65rem; /* 手机端元数据字体缩小 */
+        font-size: 0.45rem; /* 手机端元数据字体缩小 */
     }
 }
 </style>
