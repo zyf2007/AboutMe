@@ -9,7 +9,7 @@
 * [GNU/Linux](/aboutme/Plugins/btw/GNU_Linux.html)
 * [学园偶像](/aboutme/Plugins/btw/学园偶像.html)
 * [电子音乐](/aboutme/Plugins/btw/elec.html)
-* [轻百/萌系](/aboutme/Plugins/btw/轻百_萌系.html)
+* 轻百/萌系 - [追番列表](/aboutme/Plugins/btw/anime.html)
 * （还没写完，想到了补充）
 
 ## 技能类

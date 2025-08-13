@@ -49,3 +49,96 @@ def define_env(env):
     </script>
 </div>
 """
+
+
+    @env.macro
+    def anime_list(animes):
+        """
+        生成响应式追番列表
+        
+        参数:
+            animes: 包含番剧信息的列表，每个元素是字典，包含:
+                - title: 番剧标题
+                - cover: 封面图片URL
+                - href: 点击跳转到的链接
+                - status: 观看状态(可选)
+                - score: 评分(可选)
+        """
+        # 生成番剧列表HTML
+        html = """
+<style>
+.anime-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    gap: 1.5rem;
+    padding: 1rem 0;
+}
+
+.anime-card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease;
+}
+
+.anime-card:hover {
+    transform: translateY(-5px);
+}
+
+.anime-cover {
+    width: 100%;
+    aspect-ratio: 2/3;
+    object-fit: cover;
+    display: block;
+}
+
+.anime-title {
+    padding: 0.75rem;
+    font-weight: 600;
+    flex-grow: 1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.anime-meta {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    padding: 0 0.75rem 0.75rem;
+    font-size: 0.85rem;
+    color: #666;
+}
+</style>
+
+<div class="anime-grid">
+        """
+        
+        # 添加每个番剧卡片
+        for anime in animes:
+            # 基础卡片内容
+            card = f"""
+            <div class="anime-card">
+                <a href="{anime['href']}">
+                <img src="{anime['cover']}" alt="{anime['title']}的封面" class="anime-cover"></a>
+                <div class="anime-title">{anime['title']}</div>
+            """
+            
+            # 添加元数据(状态和评分)如果存在
+            if 'status' in anime or 'score' in anime:
+                card += '<div class="anime-meta">'
+                if 'status' in anime:
+                    card += f'<span>{anime["status"]}</span>'
+                if 'score' in anime:
+                    card += f'<span>★ {anime["score"]}</span>'
+                card += '</div>'
+                
+            card += '</div>'
+            html += card
+        
+        html += '</div>'
+        return html

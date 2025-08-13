@@ -16,6 +16,7 @@ nav:
     - 神教类:
       - GNU_Linux: Plugins/btw/GNU_Linux.md
       - 电子音乐: Plugins/btw/elec.md
+      - 追番列表: Plugins/btw/anime.md
     - 亚文化:
       - 核类美学/Y2K: Plugins/cu/y2k.html
   - 💬 聊天接口库:
