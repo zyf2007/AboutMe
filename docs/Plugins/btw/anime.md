@@ -28,7 +28,7 @@
         "cover": "https://114514.zroevn.cn/imgs/3p.avif",
         "href": "https://anibase.net/zh-hans/anime/lrojv/%E5%A4%A9%E4%BD%BF%E7%9A%843P!",
         "status": "已完结",
-        "score": "SS"
+        "score": "SSS"
     },
     {
         "title": "雏子的笔记",
@@ -42,7 +42,7 @@
         "cover": "https://114514.zroevn.cn/imgs/yly1.avif",
         "href": "https://anibase.net/zh-hans/anime/mEEaw/Fate-kaleid-liner-%E9%AD%94%E6%B3%95%E5%B0%91%E5%A5%B3%E2%98%86%E4%BC%8A%E8%8E%89%E9%9B%85",
         "status": "已完结",
-        "score": "SS"
+        "score": "SSS"
     },
     {
         "title": "Re:Stage！Dream Days♪",
@@ -115,13 +115,6 @@
         "score": "S"
     },
     {
-        "title": "向山进发 第三季",
-        "cover": "https://114514.zroevn.cn/imgs/dssn3.avif",
-        "href": "https://www.bilibili.com/bangumi/play/ep231951",
-        "status": "已完结",
-        "score": "SS"
-    },
-    {
         "title": "世界巨星",
         "cover": "https://114514.zroevn.cn/imgs/wds.avif",
         "href": "https://anibase.net/zh-hans/anime/mL0jm/%E4%B8%96%E7%95%8C%E5%B7%A8%E6%98%9F",
@@ -133,14 +126,14 @@
         "cover": "https://114514.zroevn.cn/imgs/ss.avif",
         "href": "https://anibase.net/zh-hans/anime/mEEGe/Slow-Start",
         "status": "已完结",
-        "score": "S"
+        "score": "SS"
     },
         {
         "title": "学园孤岛",
         "cover": "https://114514.zroevn.cn/imgs/xygd.avif",
         "href": "https://www.bilibili.com/bangumi/play/ep63870",
         "status": "已完结",
-        "score": "SS"
+        "score": "SSS"
     },
 
         {
@@ -190,7 +183,7 @@
         "cover": "https://114514.zroevn.cn/imgs/szjgzx.avif",
         "href": "https://www.bilibili.com/bangumi/play/ss6000",
         "status": "已完结",
-        "score": "SS"
+        "score": "SSS"
     },
         {
         "title": "我，要成为双马尾。",
