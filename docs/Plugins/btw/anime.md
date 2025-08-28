@@ -34,8 +34,8 @@
         "title": "雏子的笔记",
         "cover": "https://114514.zroevn.cn/imgs/note.avif",
         "href": "https://www.bilibili.com/bangumi/play/ss5993",
-        "status": "已完结",
-        "score": "A（弃坑）"
+        "status": "（弃坑）",
+        "score": "A"
     },
     {
         "title": "Fate/kaleid liner 魔法少女☆伊莉雅",
@@ -90,8 +90,8 @@
         "title": "URARA迷路帖",
         "cover": "https://114514.zroevn.cn/imgs/urara.avif",
         "href": "https://www.bilibili.com/bangumi/play/ss5776",
-        "status": "已完结",
-        "score": "B（弃坑）"
+        "status": "（弃坑）",
+        "score": "B"
     },
     {
         "title": "D4DJ First Mix",
@@ -111,14 +111,14 @@
         "title": "Bad Girl",
         "cover": "https://114514.zroevn.cn/imgs/bdgl.avif",
         "href": "https://anibase.net/zh-hans/anime/mO9KJ/BadGirl",
-        "status": "已完结",
+        "status": "未完结",
         "score": "SS"
     },
     {
         "title": "斯特拉的魔法",
         "cover": "https://114514.zroevn.cn/imgs/stl.avif",
         "href": "https://www.bilibili.com/bangumi/play/ep96238",
-        "status": "已完结",
+        "status": "（正在补）",
         "score": "S"
     },
     {
