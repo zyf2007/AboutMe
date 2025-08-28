@@ -14,7 +14,7 @@
         "cover": "https://114514.zroevn.cn/imgs/anne.avif",
         "href": "https://www.bilibili.com/bangumi/play/ep85823",
         "status": "已完结",
-        "score": "A"
+        "score": "S"
     },
     {
         "title": "黄金拼图",
@@ -108,6 +108,20 @@
         "score": "A"
     },
     {
+        "title": "Bad Girl",
+        "cover": "https://114514.zroevn.cn/imgs/bdgl.avif",
+        "href": "https://anibase.net/zh-hans/anime/mO9KJ/BadGirl",
+        "status": "已完结",
+        "score": "SS"
+    },
+    {
+        "title": "斯特拉的魔法",
+        "cover": "https://114514.zroevn.cn/imgs/stl.avif",
+        "href": "https://www.bilibili.com/bangumi/play/ep96238",
+        "status": "已完结",
+        "score": "S"
+    },
+    {
         "title": "向山进发 第二季",
         "cover": "https://114514.zroevn.cn/imgs/dssn2_.avif",
         "href": "https://www.bilibili.com/bangumi/play/ep250902",
@@ -199,13 +213,7 @@
         "status": "已完结",
         "score": "A"
     },
-    {
-        "title": "校园理想乡 学美向前冲！",
-        "cover": "https://114514.zroevn.cn/imgs/xylxx.avif",
-        "href": "https://www.bilibili.com/bangumi/play/ss1315",
-        "status": "已完结",
-        "score": "刚开始看"
-    },
+
         {
         "title": "BanG Dream! It's MyGO!!!!!",
         "cover": "https://114514.zroevn.cn/imgs/mygo.avif",
