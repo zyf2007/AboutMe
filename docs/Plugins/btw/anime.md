@@ -94,6 +94,13 @@
         "score": "B"
     },
     {
+        "title": "ENDRO~!",
+        "cover": "https://114514.zroevn.cn/imgs/endro.avif",
+        "href": "https://www.bilibili.com/bangumi/play/ep311579",
+        "status": "已完结",
+        "score": "S"
+    },
+    {
         "title": "D4DJ First Mix",
         "cover": "https://114514.zroevn.cn/imgs/d4dj1.avif",
         "href": "https://anibase.net/zh-hans/anime/lYgN1/D4DJ-First-Mix",
@@ -227,6 +234,13 @@
         "href": "https://www.bilibili.com/bangumi/play/ss73077",
         "status": "已完结",
         "score": "S"
+    },
+    {
+        "title": "阴阳眼见子",
+        "cover": "https://114514.zroevn.cn/imgs/yyy.avif",
+        "href": "https://anibase.net/zh-hans/anime/mOyo4/%E9%98%B4%E9%98%B3%E7%9C%BC%E8%A7%81%E5%AD%90",
+        "status": "已完结",
+        "score": "SS"
     },
 
 
