@@ -179,6 +179,20 @@
         "score": "S"
     },
         {
+        "title": "时光流逝饭菜依旧美味",
+        "cover": "https://114514.zroevn.cn/imgs/paf.avif",
+        "href": "https://anibase.net/zh-hans/anime/lrVqv/%E5%B2%81%E6%9C%88%E6%B5%81%E9%80%9D%E9%A5%AD%E8%8F%9C%E4%BE%9D%E6%97%A7%E7%BE%8E%E5%91%B3",
+        "status": "已完结",
+        "score": "SS"
+    },
+        {
+        "title": "我不受欢迎，怎么想都是你们的错！",
+        "cover": "https://114514.zroevn.cn/imgs/sn.avif",
+        "href": "https://anibase.net/zh-hans/anime/1AyMQ/%E6%88%91%E4%B8%8D%E5%8F%97%E6%AC%A2%E8%BF%8E%EF%BC%8C%E6%80%8E%E4%B9%88%E6%83%B3%E9%83%BD%E6%98%AF%E4%BD%A0%E4%BB%AC%E7%9A%84%E9%94%99%EF%BC%81",
+        "status": "已完结",
+        "score": "SS"
+    },
+        {
         "title": "超次元游戏 海王星",
         "cover": "https://114514.zroevn.cn/imgs/ccyyx.avif",
         "href": "https://www.bilibili.com/bangumi/play/ep9806",
