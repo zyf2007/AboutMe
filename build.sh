@@ -18,7 +18,6 @@ find site/assets/javascripts/lunr/min \
 echo 开始同步文件到 "$FTP_SERVER"...
 lftp -u "$FTP_USER","$FTP_PASS" "$FTP_SERVER" <<EOF
 set ftp:ssl-allow yes
-set ftp:ssl-force yes
 set ssl:verify-certificate no
 
 mirror -R --delete \
